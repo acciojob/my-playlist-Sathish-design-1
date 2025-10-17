@@ -1,5 +1,5 @@
-/*  your css code here. If applicable */
-body {
+/* /*  your css code here. If applicable */
+/* body {
     background-color: rgb(204, 204, 204);
 }
 
@@ -48,4 +48,23 @@ h2 {
 }
 p{
 	text-align:left;
+} */ 
+
+body{
+	background-color: rgb(204, 204, 204);
+}
+
+h1 , h2{
+	text-align:center;
+}
+ul li {
+	list-style-type:none;
+}
+a{
+	text-decoration-line: none;
+}
+.player_two , .player_one{
+	background-color: rgb(255, 255, 255);
+	padding:10px;
+	border-radius:10px;
 }
